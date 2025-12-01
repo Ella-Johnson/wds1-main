@@ -1,0 +1,44 @@
+body {
+    margin: 50px;
+    color:#3A4F41;
+    background-color: #E5E7E6;
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.headers {
+    font-family: "Playball", cursive;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #C9D6EA;
+}
+
+main {
+    padding: 30px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+strong {
+    font-weight: 900;
+}
+
+i {
+    font-style: italic;
+}
+
+a {
+    color: #2E5266;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #663F46;
+    font-weight: 600;
+}
